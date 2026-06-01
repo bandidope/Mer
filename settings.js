@@ -1,7 +1,7 @@
 import fs from 'fs';
 import chalk from 'chalk';
 
-global.owner = ['5351524614', '584147226479', '5492916450307', '5218711426787']
+global.owner = ['51936994155', '584147226479', '5492916450307', '5218711426787']
 global.sessionName = 'Sessions/Owner'
 global.version = '^3.0.0'
 global.pairing_code = true
@@ -20,7 +20,7 @@ global.bot = {
 global.prefa = '/'
 
 global.mods = [
-  '5492916450307', // Tu
+  '51936994155', // Tu
   '5351524614', // Yo
   '584147226479',// El
   '5218711426787'// when :v but :'v
